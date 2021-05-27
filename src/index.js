@@ -1,7 +1,5 @@
-import Button from "./Button";
+import Button from "./Button"
 
-const components = {
-    Button,
+export {
+    Button
 };
-
-export default components;
