@@ -1,0 +1,13 @@
+.Button {
+    padding: 5px 10px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Button-disabled {
+    opacity: 0.5;
+}
+
+/*# sourceMappingURL=main.aefa3a7c.chunk.css.map*/
