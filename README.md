@@ -1,6 +1,7 @@
 # Components
 
 This project is a proof of concept fora React components library with a storybook.
+Checkout the [storybook here](https://cmillepreligens.github.io/components/).
 
 ## Available Scripts
 
