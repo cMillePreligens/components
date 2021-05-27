@@ -17,8 +17,7 @@
     "build-dist": "rollup -c",
     "build-storybook": "build-storybook -o ./docs",
     "dist-dev": "rollup -c -w",
-    "storybook-dev": "start-storybook -p 6006",
-    "dev": "start-storybook -p 6006 && rollup -c -w"
+    "storybook-dev": "start-storybook -p 6006"
   },
   "eslintConfig": {
     "extends": [
